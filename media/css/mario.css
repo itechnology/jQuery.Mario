@@ -2,7 +2,7 @@
   font-family: 'Carter One';
   font-style : normal;
   font-weight: normal;
-  src        : local('CarterOne'), url('http://themes.googleusercontent.com/static/fonts/carterone/v2/VjW2qt1pkqVtO22ObxgEBRsxEYwM7FgeyaSgU71cLG0.woff') format('woff');
+  src        : local('CarterOne'), url('https://themes.googleusercontent.com/static/fonts/carterone/v2/VjW2qt1pkqVtO22ObxgEBRsxEYwM7FgeyaSgU71cLG0.woff') format('woff');
 }
 body {
     width: 1024px;
