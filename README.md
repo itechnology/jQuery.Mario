@@ -3,4 +3,4 @@ jQuery.Mario
 
 Some simple fun with jQuery.animate()
 
-[Try it!](http://itechnology.github.com/jQuery.Mario)
+[Try it!](http://itechnology.github.io/jQuery.Mario)
